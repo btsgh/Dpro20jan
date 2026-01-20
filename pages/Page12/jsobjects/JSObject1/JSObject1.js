@@ -3,7 +3,7 @@ export default {
 `,
 	renewal: `Folks, this is a friendly reminder that your membership is about to expire. Please renew your subscriptions at:
 `,
-	thankyou: `Thank you for supporting our group! Your membership has been renewed.
+	thankyou: `Thank you all .. really appreciate you for supporting our group! Your membership has been renewed.
 `,
 	onOpen: () => {
 		storeValue('msgName',appsmith.store.msgName || 'welcome')
