@@ -18,11 +18,19 @@
   "icon": "cricket",
   "pages": [
     {
+      "id": "Page12",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
     {
       "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
       "isDefault": false
     }
   ],

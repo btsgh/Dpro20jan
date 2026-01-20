@@ -1,0 +1,33 @@
+{
+  "borderRadius": "0.375rem",
+  "bottomRow": 64,
+  "boxShadow": "none",
+  "buttonColor": "#03B365",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": true,
+  "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconAlign": "left",
+  "iconName": "send-message",
+  "isDefaultClickDisabled": true,
+  "isLoading": false,
+  "isVisible": "true",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 25,
+  "onClick": "{{navigateTo(txt_url.text, {},'NEW_WINDOW')}}",
+  "parentId": "cicukwhp5j",
+  "recaptchaType": "V3",
+  "resetFormOnClick": false,
+  "rightColumn": 61,
+  "text": "Send to WhatsApp",
+  "topRow": 58,
+  "type": "FORM_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "4gnygu5jew",
+  "widgetName": "update_button"
+}
