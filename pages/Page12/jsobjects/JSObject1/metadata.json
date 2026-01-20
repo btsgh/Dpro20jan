@@ -9,7 +9,7 @@
     "variables": [
       {
         "name": "welcome",
-        "value": "`Welcome to our group! Here's a link to the new member paperwork:\n`"
+        "value": "`Ahoy there! Welcome to our group! How are you doing? While you explore, here's a link to the new member paperwork:\n`"
       },
       {
         "name": "renewal",
