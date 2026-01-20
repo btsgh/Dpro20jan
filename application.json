@@ -32,6 +32,10 @@
     {
       "id": "Page3",
       "isDefault": false
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
